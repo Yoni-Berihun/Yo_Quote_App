@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'dart:math'; // We only need to import this once at the top
+import 'dart:math'; 
 
 void main() {
   runApp(QuoteApp());
