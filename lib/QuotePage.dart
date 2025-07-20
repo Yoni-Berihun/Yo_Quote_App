@@ -1,12 +1,6 @@
-import 'package:flutter/material.dart';
 import 'dart:math';
 
-class QuoteApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(title: 'Quote of the Day', home: QuotePage());
-  }
-}
+import 'package:flutter/material.dart';
 
 class QuotePage extends StatefulWidget {
   @override
